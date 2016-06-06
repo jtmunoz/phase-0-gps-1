@@ -1,5 +1,7 @@
-# Presidential Bush the Programmer #
+# Presidential Roosevelt the Programmer #
+
 **Theodore Roosevelt**
+
 > Speak softly, and carry a big stick.
 
 I believe if President Roosevelt was a coder he would have been a big fan of the `rm -rf` command and probably `rmdir`
