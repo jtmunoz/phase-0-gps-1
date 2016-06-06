@@ -1,4 +1,4 @@
-# Presidential Roosevelt the Programmer #
+# Presidential Bush the Programmer #
 **Theodore Roosevelt**
 > Speak softly, and carry a big stick.
 
